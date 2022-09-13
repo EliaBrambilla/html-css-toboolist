@@ -19,8 +19,6 @@ body{
     background-color: #e7e6e6;
     margin-top: 0px;
     margin-left: 0px;
-    
-    
 }
 
 #logo {
@@ -52,6 +50,7 @@ body{
         border-radius: 7px;
         padding: 8px;
 }
+
 #white-select{
     padding: 8px;
     background-color: white;
@@ -59,4 +58,99 @@ body{
     color: lightslategrey;
     border-radius: 7px;
     margin-left: 7px;
+}
+
+h2{
+    display: inline;
+    margin-left: 10px;
+}
+
+ul{
+    list-style: none;
+    padding-left: inherit;
+}
+
+.x-nonfatto{
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 0 6px 0 6px;
+    margin-right: 15px;
+}
+
+.v-fatto{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 0 6px 0 4px;
+    margin-right: 15px;
+}
+
+li{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#second-list{
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+#all-list{
+    padding: 44px 80px;
+}
+
+.br-azzurro{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(87 162 255);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+#br-viola{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(195, 104, 255);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+
+}
+
+#br-acqua{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(76, 167, 124);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+#br-arancione{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(250, 161, 28);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+#br-fucsia{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(241, 54, 201);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+#br-verde{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(198, 241, 79);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
 }
