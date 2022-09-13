@@ -3,3 +3,60 @@
     margin:0;
     box-sizing: border-box;
 }
+
+header {
+    line-height: 110px;
+    height: 120px;
+    border-top: 2px solid gray;
+    font-size: 57px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    padding-left: 20px;
+}
+
+body{
+    background-color: #e7e6e6;
+    margin-top: 0px;
+    margin-left: 0px;
+    
+    
+}
+
+#logo {
+    width: 70px;
+    vertical-align: middle;
+  }
+
+.container{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    background-color: white;
+    border-radius: 7px;
+}
+#buttons{
+    display: inline-block;
+    padding-top: 40px;
+    border-bottom: 2px solid #e7e6e6;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    width: 100%;
+}
+.br-blue{
+        background-color: #368bf5;
+        color: white;
+        border: 1px solid white;
+        border-radius: 7px;
+        padding: 8px;
+}
+#white-select{
+    padding: 8px;
+    background-color: white;
+    border: 1px solid lightslategrey;
+    color: lightslategrey;
+    border-radius: 7px;
+    margin-left: 7px;
+}
